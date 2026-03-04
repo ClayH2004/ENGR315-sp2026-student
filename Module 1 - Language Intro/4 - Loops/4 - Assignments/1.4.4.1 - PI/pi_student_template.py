@@ -38,6 +38,8 @@ for i in range(1, 10):
     t = t_new
     p = p_new
 
+    
+
 
     # print out the current loop iteration. This is present to have something in the loop.
     print("Loop Iteration: ", i)
